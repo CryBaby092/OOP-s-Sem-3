@@ -1,0 +1,11 @@
+Assignment-10:
+	https://dslcode.blogspot.com/2021/11/group-e-32-pizza-parlor-accepting.html
+
+Assignment-11:
+	https://dslcode.blogspot.com/2020/06/group-c-20-ticket-booking-system-of.html
+
+Assignment-13:
+	https://www.tutsmake.com/c-program-to-sort-names-in-alphabetical-order/#:~:text=Use%20the%20following%20algorithm%20to%20write%20a%20program,external%20loop.%206%20Step%208%3A%20Output%20sorted%20array
+
+Assignment-14:
+	
